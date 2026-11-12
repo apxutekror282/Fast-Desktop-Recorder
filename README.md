@@ -188,4 +188,4 @@ This repository serves as the official landing page for Fast Desktop Recorder. T
 **Get the most recent version of Fast Desktop Recorder today!**
 
 ---
-**Last updated:** 2026-11-12 10:45:16 UTC
+**Last updated:** 2026-11-12 18:44:31 UTC
